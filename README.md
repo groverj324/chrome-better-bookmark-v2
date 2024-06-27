@@ -17,7 +17,7 @@ For easy orientation tooltips are attached to every listed category.
 - Fuse.js library (fuzzy search) updated to v3.3.0 and max amount of characters for the search pattern has been changed, therefore, "Pattern length is too long" error shouldn't now block the search (or bitapRegexSearch will be used instead).
 - Clickable breadcrumbs allow you to change a parent directory (to go up/down the tree) by clicking on one of the links in a breadcrumb (start by clicking any radio button).
 
-<p align="center"><img width="320" src="https://raw.githubusercontent.com/galakhov/tree-first-bookmarks/master/screenshot.png" title="Tree First Bookmarks" alt="Tree First Bookmarks"></p>
+<p align="center"><img width="320" src="https://raw.githubusercontent.com/groverj324/tree-first-bookmarks/master/screenshot.png" title="Tree First Bookmarks" alt="Tree First Bookmarks"></p>
 
 # Original chrome-better-bookmark
 
